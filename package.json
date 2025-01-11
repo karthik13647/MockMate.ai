@@ -1,0 +1,25 @@
+{
+  "name": "mockmateai",
+  "version": "1.0.0",
+  "description": "AI Mock Interviewer",
+  "main": "index.js",
+  "scripts": {
+   "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "karthik batta",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.32.12"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^5.0.0"
+  }
+}
